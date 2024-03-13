@@ -1,4 +1,4 @@
-package com.example.mvvm_flow_retrofit_daggerhilt.di
+package com.example.mvvm_flow_retrofit_daggerhilt
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
